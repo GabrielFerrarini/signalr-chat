@@ -1,0 +1,14 @@
+/home/gabriel/signalrchat/SignalRChat/obj/Debug/netcoreapp2.2/SignalRChat.csprojAssemblyReference.cache
+/home/gabriel/signalrchat/SignalRChat/obj/Debug/netcoreapp2.2/SignalRChat.csproj.CoreCompileInputs.cache
+/home/gabriel/signalrchat/SignalRChat/obj/Debug/netcoreapp2.2/SignalRChat.RazorAssemblyInfo.cache
+/home/gabriel/signalrchat/SignalRChat/obj/Debug/netcoreapp2.2/SignalRChat.RazorAssemblyInfo.cs
+/home/gabriel/signalrchat/SignalRChat/obj/Debug/netcoreapp2.2/SignalRChat.AssemblyInfoInputs.cache
+/home/gabriel/signalrchat/SignalRChat/obj/Debug/netcoreapp2.2/SignalRChat.AssemblyInfo.cs
+/home/gabriel/signalrchat/SignalRChat/bin/Debug/netcoreapp2.2/SignalRChat.deps.json
+/home/gabriel/signalrchat/SignalRChat/bin/Debug/netcoreapp2.2/SignalRChat.runtimeconfig.json
+/home/gabriel/signalrchat/SignalRChat/bin/Debug/netcoreapp2.2/SignalRChat.runtimeconfig.dev.json
+/home/gabriel/signalrchat/SignalRChat/bin/Debug/netcoreapp2.2/SignalRChat.dll
+/home/gabriel/signalrchat/SignalRChat/bin/Debug/netcoreapp2.2/SignalRChat.pdb
+/home/gabriel/signalrchat/SignalRChat/obj/Debug/netcoreapp2.2/SignalRChat.RazorTargetAssemblyInfo.cache
+/home/gabriel/signalrchat/SignalRChat/obj/Debug/netcoreapp2.2/SignalRChat.dll
+/home/gabriel/signalrchat/SignalRChat/obj/Debug/netcoreapp2.2/SignalRChat.pdb

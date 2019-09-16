@@ -1,0 +1,10 @@
+version: "3.7"
+services:
+  signalrchatserver:
+    build:
+      context: .
+    container_name: signalrchat-server
+    environment:
+      -  ASPNETCORE_URLS=http://+:5000
+    ports:
+      - 5000:5000

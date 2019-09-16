@@ -1,0 +1,8 @@
+version: "3.7"
+services:
+  signalrchatclient:
+    build:
+      context: .
+    container_name: signalrchat-client
+    ports:
+      - 3000:3000
